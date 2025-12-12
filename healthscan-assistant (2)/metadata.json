@@ -1,0 +1,8 @@
+{
+  "name": "HealthScan Assistant",
+  "description": "A safe, non-diagnostic AI health information tool analyzing images and symptoms to provide safety assessments and guidance.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
